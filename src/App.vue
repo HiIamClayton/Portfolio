@@ -8,6 +8,16 @@
   <div class="col"><a href="" class="links">Contact Me</a></div>
 </div>
 </div>
+<div id="landing" class="container">
+  <div class="row">
+    <h2>Clayton</h2>
+    <br>
+    <h3>Adonis</h3>
+  </div>
+  <div class="row">
+      <img id="img" src="./assets/1669108884251.jpg">
+  </div>
+</div>
 </template>
 
 <style>
@@ -32,5 +42,10 @@ a:link {
 .links {
   color: brown;
   font-size: 1.5vh;
+}
+
+#img {
+  width: 200px;
+  height: 500px;
 }
 </style>
